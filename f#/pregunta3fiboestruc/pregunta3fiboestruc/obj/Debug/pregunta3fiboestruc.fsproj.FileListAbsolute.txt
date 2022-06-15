@@ -1,0 +1,10 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\pregunta3fiboestruc.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\pregunta3fiboestruc.XML
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\pregunta3fiboestruc.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\pregunta3fiboestruc.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\FSharp.Core.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\FSharp.Core.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\obj\Debug\pregunta3fiboestruc.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\obj\Debug\pregunta3fiboestruc.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fiboestruc\pregunta3fiboestruc\obj\Debug\pregunta3fiboestruc.fsprojResolveAssemblyReference.cache

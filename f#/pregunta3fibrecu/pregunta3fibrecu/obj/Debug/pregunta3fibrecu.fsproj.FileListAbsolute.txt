@@ -1,0 +1,10 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\pregunta3fibrecu.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\pregunta3fibrecu.XML
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\pregunta3fibrecu.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\pregunta3fibrecu.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\FSharp.Core.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\FSharp.Core.xml
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\obj\Debug\pregunta3fibrecu.fsprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\obj\Debug\pregunta3fibrecu.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\pregunta3fibrecu\pregunta3fibrecu\obj\Debug\pregunta3fibrecu.pdb
